@@ -46,5 +46,5 @@ Azure-AI-900/
 
 > This repository was developed as part of the preparation for the **Microsoft Certified: Azure AI Fundamentals (AI-900)** certification.
 
-**Author:** [Your Name]  
+**Author:** André Luiz Cardoso  
 **Date:** May 9, 2025
