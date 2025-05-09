@@ -1,0 +1,5 @@
+Rosto nº 1
+Máscara facial: sim
+Máscara facial cobrindo nariz e boca: sim
+Rosto #2
+Máscara facial: não

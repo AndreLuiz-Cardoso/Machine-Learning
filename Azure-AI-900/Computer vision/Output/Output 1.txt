@@ -1,0 +1,43 @@
+Rosto nº 1
+Máscara facial: não
+Rosto #2
+Máscara facial: não
+Rosto #3
+Máscara facial: não
+Cara #4
+Máscara facial: não
+Rosto #5
+Máscara facial: não
+Rosto #6
+Máscara facial: não
+Rosto #7
+Máscara facial: não
+Rosto #8
+Máscara facial: não
+Rosto #9
+Máscara facial: não
+Cara #10
+Máscara facial: não
+Cara #11
+Máscara facial: não
+Rosto #12
+Máscara facial: sim
+Máscara facial cobrindo nariz e boca: sim
+Rosto #13
+Máscara facial: sim
+Máscara facial cobrindo nariz e boca: não
+Rosto #14
+Máscara facial: não
+Rosto #15
+Máscara facial: sim
+Máscara facial cobrindo nariz e boca: não
+Rosto #16
+Máscara facial: não
+Rosto #17
+Máscara facial: não
+Rosto #18
+Máscara facial: não
+Rosto #19
+Máscara facial: não
+Rosto #20
+Máscara facial: não
